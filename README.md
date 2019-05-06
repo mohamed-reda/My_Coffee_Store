@@ -1,16 +1,9 @@
-# my_coffee_app
+# offee-store
 
 A new Flutter application.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/15935347/57208634-3934f580-6fd5-11e9-8c57-386e00f0f00f.png"  width="200" height="350" />
+<img src="https://user-images.githubusercontent.com/15935347/57208635-3934f580-6fd5-11e9-8d16-3052ae8ab1bd.png"  width="200" height="350" />
+<img src="https://user-images.githubusercontent.com/15935347/57208636-3934f580-6fd5-11e9-92a2-02e5d0ffdc08.png"  width="200" height="350" />
+<img src="https://user-images.githubusercontent.com/15935347/57208637-3934f580-6fd5-11e9-8991-967621d3252e.png"  width="200" height="350" />

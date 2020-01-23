@@ -1,4 +1,4 @@
-# offee-store
+# Coffee-store
 
 A new Flutter application.
 
